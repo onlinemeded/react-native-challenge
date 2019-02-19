@@ -5,7 +5,6 @@ If you're interested in joining our team, complete this challenge and submit you
 
 ## Instructions
 #### 1. Build your app
-You have 1 week to complete the challenge.
 
 *Implementation and design will be evaluated.*
 #### 2. Submit your challenge
