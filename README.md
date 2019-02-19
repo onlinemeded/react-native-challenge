@@ -15,7 +15,7 @@ Follow these instructions to submit your challenge.
 * Write your Code
 * Commit your Changes
 * Fork the Challenge Repository
-* Issue a Pull Request
+* Issue a Pull Request from your Fork to our Repository
 
 #### 3. Impress us with your skills
 
